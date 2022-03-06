@@ -1,7 +1,7 @@
 const messages = [
   "Welcome, visiter!",
   "So... Do you want to feel some oldschool hacker vibes, huh?",
-  "Nice! I spent lotta time on this. I hope you like it :) Btw view credits here: /credits.html",
+  "Nice! I spent lotta time on this. I hope you like it :) Btw view credits here: https://vojtablek.github.io/console-game/credits.html",
   "Do you want to still continue???",
   "OK babeee",
   "Still waitin' what's gonna happen?",
